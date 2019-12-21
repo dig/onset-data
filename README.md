@@ -1,6 +1,8 @@
 # onset-data
 Authors: Digital
 
+Feel free to submit pull requests.
+
 ### Features
 * Set camera to pan a location.
 * Set camera on paths.
@@ -42,5 +44,5 @@ Find a weapon ID by its name or alias.
 ```lua
 GetWeaponByName(weaponName)
 ```
-* **weaponName** Search for a weapon ID from it's name. Example: Deagle
+* **weaponName** The weapon name you are looking for. Example: Deagle
 <br />Returns a weapon ID integer, if weapon cannot be found then 0 will be returned.
