@@ -31,23 +31,23 @@ VEHICLE_SEDAN_CLASSIC = 25
 
 VEHICLE_DATA = {
   [1] = {
-    name = 'Sedan',
+    name = 'Premier',
     alias = { 'Sedan_01' }
   },
   [2] = {
-    name = 'Sedan (Taxi)',
+    name = 'Taxi',
     alias = { 'Sedan_01_Taxi' }
   },
   [3] = {
-    name = 'Sedan (Police)',
+    name = 'Police Cruiser',
     alias = { 'Sedan_01_Police' }
   },
   [4] = {
-    name = 'Sedan 02',
+    name = 'Luxe',
     alias = { 'Sedan_02' }
   },
   [5] = {
-    name = 'Sedan 03',
+    name = 'Regal',
     alias = { 'Sedan_03' }
   },
   [6] = {
@@ -55,7 +55,7 @@ VEHICLE_DATA = {
     alias = { 'Nascar_01' }
   },
   [7] = {
-    name = 'Offroad',
+    name = 'Raptor',
     alias = { 'Truck_01' }
   },
   [8] = {
@@ -67,47 +67,47 @@ VEHICLE_DATA = {
     alias = { 'Garbage_Truck_01' }
   },
   [10] = {
-    name = 'Helicopter (Blue)',
+    name = 'Maverick (Blue)',
     alias = { 'Helicopter_01' }
   },
   [11] = {
-    name = 'Coupe',
+    name = 'Pinnacle',
     alias = { 'Coupe_01' }
   },
   [12] = {
-    name = 'Rally',
+    name = 'Sultan',
     alias = { 'Rally_01' }
   },
   [13] = {
-    name = 'Heavy (Black)',
+    name = 'SWAT (Black)',
     alias = { 'Heavy_01' }
   },
   [14] = {
-    name = 'Heavy (Camo)',
+    name = 'SWAT (Camo)',
     alias = { 'Heavy_02' }
   },
   [15] = {
-    name = 'Heavy (Redline)',
+    name = 'SWAT (Medic)',
     alias = { 'Heavy_03' }
   },
   [16] = {
-    name = 'Heavy (Sand)',
+    name = 'SWAT (Sand)',
     alias = { 'Heavy_04' }
   },
   [17] = {
-    name = 'Cargo (Green)',
+    name = 'Barracks (Green)',
     alias = { 'Cargo_Truck_01' }
   },
   [18] = {
-    name = 'Cargo (Camo)',
+    name = 'Barracks (Camo)',
     alias = { 'Cargo_Truck_02' }
   },
   [19] = {
-    name = 'Sedan (Orange)',
+    name = 'Premier (Orange)',
     alias = { 'Sedan_OneColor' }
   },
   [20] = {
-    name = 'Helicopter (Olive)',
+    name = 'Maverick (Olive)',
     alias = { 'Helicopter_OneColor' }
   },
   [21] = {
@@ -115,19 +115,19 @@ VEHICLE_DATA = {
     alias = { 'Military_01' }
   },
   [22] = {
-    name = 'Light (Olive)',
+    name = 'Cargo Light (Olive)',
     alias = { 'Light_Cargo_01' }
   },
   [23] = {
-    name = 'Light (Camo)',
+    name = 'Cargo Light (Camo)',
     alias = { 'Light_Cargo_02' }
   },
   [24] = {
-    name = 'Armoured Truck (Red)',
+    name = 'Securicar (Red)',
     alias = { 'ArmoredTruck_01' }
   },
   [25] = {
-    name = 'Sedan (Classic)',
+    name = 'Dacia',
     alias = { 'Sedan_Classic' }
   }
 }
