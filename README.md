@@ -40,6 +40,22 @@ AddPlayerChat(_myWeaponID)
 ```
 
 ### Functions
+#### GetVehicleName
+Find a vehicle's name from its ID.
+```lua
+GetVehicleName(vehicleID)
+```
+* **vehicleID** A vehicle ID. Example: 5
+<br />Returns a string, if vehicle cannot be found then false will be returned.
+
+#### GetVehicleByName
+Find a vehicle ID by its name or alias.
+```lua
+GetVehicleByName(vehicleName)
+```
+* **vehicleName** The vehicle name you are looking for. Example: Ambulance
+<br />Returns a vehicle ID integer, if vehicle cannot be found then 0 will be returned.
+
 #### GetWeaponName
 Find a weapon's name from its ID.
 ```lua
