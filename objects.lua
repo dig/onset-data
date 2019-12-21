@@ -1,3 +1,8 @@
+--[[
+  @author Digital.
+  @url https://github.com/dig/onset-data
+]]
+
 -- TODO: This file needs finishing
 OBJECT_EXAMPLE = 0
 

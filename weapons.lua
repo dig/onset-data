@@ -1,3 +1,8 @@
+--[[
+  @author Digital.
+  @url https://github.com/dig/onset-data
+]]
+
 WEAPON_FIST = 1
 WEAPON_DEAGLE = 2
 WEAPON_COLT = 3
