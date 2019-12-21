@@ -32,7 +32,7 @@ Add the following to your server_scripts in package.json,
 ### Example
 ```lua
 -- Display weapon WEAPON_COLT's name.
-AddPlayerChat(GetWeaponName(WEAPON_COLT))
+AddPlayerChat(GetWeaponName(WEAPON_COLT)) -- or GetWeaponName(5)
 
 -- Find a weapon ID by its name.
 local _myWeaponID = GetWeaponByName('Deagle')
