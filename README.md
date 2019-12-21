@@ -8,7 +8,8 @@ Feel free to submit pull requests, I plan on adding all class names for objects,
 * Useful functions for weapons.
 
 ### Installation
-Download all files from this repository and place them inside your package in a folder called data. (packages/mypackage/data/)
+Download all files from this repository and place them inside your package in a folder called data.
+```packages/mypackage/data/```<br />
 Add the following to your client_scripts in package.json,
 ```json
     "data/util.lua",
