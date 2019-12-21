@@ -12,11 +12,19 @@ Download all files from this repository and place them inside your package.
 Add the following to your client_scripts in package.json,
 ```json
     "data/util.lua",
+    "data/clothing.lua",
+    "data/doors.lua",
+    "data/objects.lua",
+    "data/vehicles.lua",
     "data/weapons.lua"
 ```
 Add the following to your server_scripts in package.json,
 ```json
     "data/util.lua",
+    "data/clothing.lua",
+    "data/doors.lua",
+    "data/objects.lua",
+    "data/vehicles.lua",
     "data/weapons.lua"
 ```
 
