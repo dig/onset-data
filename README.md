@@ -1,7 +1,11 @@
 # onset-data
 Authors: Digital
 
-Feel free to submit pull requests.
+Feel free to submit pull requests, I plan on adding all class names for objects, vehicles, doors, weapons and clothing.
+
+### Features
+* Adds all weapon class names, WEAPON_COLT, WEAPON_DEAGLE, etc.
+* Useful functions for weapons.
 
 ### Installation
 Download all files from this repository and place them inside your package.
@@ -18,8 +22,8 @@ Add the following to your server_scripts in package.json,
 
 ### Example
 ```lua
--- Display weapon ID 5's name.
-AddPlayerChat(GetWeaponName(5))
+-- Display weapon WEAPON_COLT's name.
+AddPlayerChat(GetWeaponName(WEAPON_COLT))
 
 -- Find a weapon ID by its name.
 local _myWeaponID = GetWeaponByName('Deagle')
