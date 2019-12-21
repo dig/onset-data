@@ -3,10 +3,6 @@ Authors: Digital
 
 Feel free to submit pull requests.
 
-### Features
-* Set camera to pan a location.
-* Set camera on paths.
-
 ### Installation
 Download all files from this repository and place them inside your package.
 Add the following to your client_scripts in package.json,
