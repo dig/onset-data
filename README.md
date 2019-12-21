@@ -5,7 +5,8 @@ Feel free to submit pull requests, I plan on adding all class names for objects,
 
 ### Features
 * Adds all weapon class names, WEAPON_COLT, WEAPON_DEAGLE, etc.
-* Useful functions for weapons.
+* Adds all vehicle class names, VEHICLE_GARBAGE_TRUCK_01, VEHICLE_NASCAR_01, etc.
+* Useful functions for vehicles & weapons.
 
 ### Installation
 Download all files from this repository and place them inside your package in a folder called data.
